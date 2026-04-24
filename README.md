@@ -43,4 +43,4 @@ The skill successfully integrates structured instructions with deterministic cod
 - It assumes a relatively standard campaign data structure
 
 ## Video Link
-[Presentation Video]()
+[Presentation Video](https://youtu.be/StQqyTnmD30)
